@@ -1,4 +1,4 @@
-### Hello PeacefulCoders 👋
+### Hello I'm Anirudh 👋
 <!--- 🔭 I’m currently working on..... --->
 - 🌱 I’m currently learning Frontend Web Dev from (Odin Project) and few courses 
 - 👯 I’m looking to collaborate on learning DSA and WEB DEV
