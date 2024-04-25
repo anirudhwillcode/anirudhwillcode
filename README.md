@@ -6,13 +6,12 @@
 Welcome to my GitHub profile! I'm a dedicated learner with a passion for technology, particularly in the realm of Full Stack Development 
 PS- currently focusing more on the backend side of tech..
 #### About Me
-
 - 💼 Currently, focusing more on the backend side of tech.
-- 🌱 I'm deeply committed to expanding my skill set and staying updated with the latest trends and best practices in the rapidly evolving tech landscape.
-- <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> 
-<img src="https://img.icons8.com/color/48/000000/css3.png"/> 
-<img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> 
-<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/> 
+- 🔍 I enjoy problem-solving and finding elegant solutions to complex technical challenges.
+- 🌱 I'm deeply committed to expanding my skill set and staying updated with the latest trends and best practices in the rapidly evolving tech landscape.<br/>
+- 💬 Always open to discussions and collaborations on innovative projects that push the boundaries of what's possible in tech.
+ <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/> <img src="https://img.icons8.com/color/48/000000/nextjs.png"/> 
+
 
 #### Get in Touch
 
