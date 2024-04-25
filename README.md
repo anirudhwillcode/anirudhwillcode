@@ -18,7 +18,7 @@ PS- currently focusing more on the backend side of tech..
 I'm always eager to connect with like-minded individuals, collaborate on projects, or simply have a meaningful conversation about technology and its impact. Feel free to reach out to me via:
 
 - 📧 Email: [anirudhvps57@gmail.com](mailto:anirudhvps57@gmail.com)
-- 💬 Instagram: [@_shoyyo_](https://www.instagram.com/_shoyyo_/)
+- 💬 Instagram: [@shoyyo__](https://www.instagram.com/_shoyyo_/)
 
 #### Fun Fact
 
