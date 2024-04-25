@@ -9,7 +9,10 @@ PS- currently focusing more on the backend side of tech..
 
 - 💼 Currently, focusing more on the backend side of tech.
 - 🌱 I'm deeply committed to expanding my skill set and staying updated with the latest trends and best practices in the rapidly evolving tech landscape.
-- 🎓 I hold a strong foundation in programming fundamentals, with proficiency in languages such as JavaScript, HTML, CSS, and JAVA.
+- <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> 
+<img src="https://img.icons8.com/color/48/000000/css3.png"/> 
+<img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> 
+<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/> 
 
 #### Get in Touch
 
