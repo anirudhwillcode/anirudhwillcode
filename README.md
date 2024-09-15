@@ -6,7 +6,6 @@
 Welcome to my GitHub profile! I'm a dedicated learner with a passion for technology, particularly in the realm of Full Stack Development 
 PS- currently focusing more on the backend side of tech..
 #### About Me
-- 💼 Currently, focusing more on the backend side of tech.
 - 🔍 I enjoy problem-solving and finding elegant solutions to complex technical challenges.
 - 🌱 I'm deeply committed to expanding my skill set and staying updated with the latest trends and best practices in the rapidly evolving tech landscape.<br/>
 - 💬 Always open to discussions and collaborations on innovative projects that push the boundaries of what's possible in tech.<br/>
